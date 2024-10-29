@@ -1,0 +1,16 @@
+h1{
+  color:hsl(210, 100%, 50%);
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h3{
+  color: purple;
+}
+body{
+  background-color: hsl(180, 100%, 50%)
+}
